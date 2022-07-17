@@ -1,8 +1,8 @@
 # Tugas Besar Machine Learning
-### Nama      : Dinda Tresna Teja Nirwana
-### NIM       : 1202190050
-### Kelas     : IT 02-02
-### Kelompok  : 7
+#### Nama      : Dinda Tresna Teja Nirwana
+#### NIM       : 1202190050
+#### Kelas     : IT 02-02
+#### Kelompok  : 7
 
 Dalam tugas ini, terdapat 3 model dataset yang digunakan yaitu sebagai berikut :
 1. Machine_Learning_Integer digunakan untuk menampilkan EDA dalam bentuk pairplot
